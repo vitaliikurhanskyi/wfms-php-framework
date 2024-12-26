@@ -2,8 +2,8 @@
     "name": "wfms/php-framework",
     "autoload": {
         "psr-4": {
-            "core\\": "vendor/core",
-            "app\\": "app"
+            "app\\": "app",
+            "core\\": "core/"
         }
     },
     "require": {}
